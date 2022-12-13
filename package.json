@@ -1,0 +1,26 @@
+{
+  "name": "aiden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^0.21.4",
+    "combined-stream": "^1.0.8",
+    "cosmicjs": "^4.2.10",
+    "delayed-stream": "^1.0.0",
+    "follow-redirects": "^1.15.2",
+    "form-data": "^3.0.1",
+    "location-client": "^1.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "openai": "^3.1.0",
+    "regenerator-runtime": "^0.13.10",
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
