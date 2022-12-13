@@ -21,14 +21,14 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/generate" className={styles.card}>
+          <a href="/demo" className={styles.card}>
             <h2>Demo &rarr;</h2>
-            <p>Bring us your problems, papers, and books. We have answers to all your questions.</p>
+            <p>Come ask us a question! School related or not, we got an answer.</p>
           </a>
 
           <a href="/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
-            <p>Learn about how sumAI makes me money off your retarded ass!</p>
+            <p>Learn about how sumAI works!</p>
           </a>
 
           <a

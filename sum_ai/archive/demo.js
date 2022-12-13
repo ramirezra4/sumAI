@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 
-const Generate = () => {
+const Demo = () => {
   const [text, setText] = useState('');
   const [display, setDisplay] = useState('');
 
   const handleChange = (event) => {
     setText(event.target.value);
   }
+
+  
 
   const applyPlaceholder = (inputText) => {
     // This is where you would apply the placeholder operation on the text
@@ -26,4 +28,4 @@ const Generate = () => {
     </div>
   );
 };
-export default Generate
+export default Demo
